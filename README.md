@@ -22,5 +22,7 @@ Our experiments are done with:
 - opencv 4.6.0
 - scikit-image 0.19.3
 
+## This is the Trasformer-based version.
+
 ## Contact
 If you have any questions, please contact linxin@stu.scu.edu.cn
