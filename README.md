@@ -8,9 +8,12 @@ Rain in the dark poses a significant challenge to deploying real-world applicati
 
 ## Pre-trained models: 
 
+The Trans-based method:
 链接：https://pan.baidu.com/s/1af8-I98L-c0A9sDWCN_g3w 
 提取码：qds8 
 --来自百度网盘超级会员V4的分享
+
+The CNN-based method will open when I free...
 
 ## Dataset:
 
