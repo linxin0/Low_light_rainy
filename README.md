@@ -1,4 +1,4 @@
-# Dual Degradation Representation for Joint Deraining and Low-Light Enhancement in the Dark
+# [TCSVT] Dual Degradation Representation for Joint Deraining and Low-Light Enhancement in the Dark
 
 ### Xin Lin*, Jingtong Yue*, Sixian Ding, Chao Ren, Lu Qi and Ming-Hsuan Yang
 
